@@ -1,0 +1,49 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin: 0;
+}
+
+section {
+    margin: 2em;
+}
+
+img {
+    max-width: 25%;
+    height: auto;
+}
+
+#skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+.project {
+    margin-bottom: 2em;
+}
+
+footer {
+    background-color: #845959;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+}
